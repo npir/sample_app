@@ -1,0 +1,4 @@
+class AddRememberToeknToUsers < ActiveRecord::Migration
+  def change
+  end
+end
